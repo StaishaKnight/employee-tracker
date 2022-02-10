@@ -27,8 +27,15 @@ After completing this program, you will have a database of all employees, includ
 Run the following command:  
 `npm test`
 
+## Demo
+https://bootcampspot.instructuremedia.com/embed/9fbd889d-325f-47ee-a174-8574f8403bf8
+
+
 ## Questions
-Direct any questions to [haleynmyers@gmail.com](mailto:haleynmyers@gmail.com) or contact me through this GitHub profile [haleynmyers](https://github.com/haleynmyers).
+## Questions
+ contact me through this GitHub profile or linkedin 
+ www.linkedin.com/in/staishaknight
+https://github.com/StaishaKnight
 
 ## Lisence 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)

@@ -176,6 +176,27 @@ role_id: selectedRole.id
 
 ;
 
+function addDepartments(){
+   inquirer.prompt([
+    { 
+      type: "input",
+      name: "Departments_Name",
+      message: "What is the new departments name?",
+    },
+   ])
+  .then(response=>{
+    connection.query("INSERT into departments SET ?", {
+  departments_name: response.Departments_Name,
+  
+    
+    },function (){
+      console.log("added new departments")
+      startApp()
+    })
+  })
+  }
+  
+
 
 
 function selectEmp() {
