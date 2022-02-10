@@ -28,7 +28,11 @@ Run the following command:
 `npm test`
 
 ## Questions
-Direct any questions to [haleynmyers@gmail.com](mailto:haleynmyers@gmail.com) or contact me through this GitHub profile [haleynmyers](https://github.com/haleynmyers).
+ contact me through this GitHub profile or linkedin 
+ www.linkedin.com/in/staishaknight
+
+https://github.com/StaishaKnight
+
 
 ## Lisence 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
