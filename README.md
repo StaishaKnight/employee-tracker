@@ -31,7 +31,7 @@ Run the following command:
 https://bootcampspot.instructuremedia.com/embed/9fbd889d-325f-47ee-a174-8574f8403bf8
 
 
-## Questions
+
 ## Questions
  contact me through this GitHub profile or linkedin 
  www.linkedin.com/in/staishaknight
